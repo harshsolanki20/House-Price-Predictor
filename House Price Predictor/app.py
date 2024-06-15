@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  8 19:39:30 2022
-
-@author: miral
-"""
 
 from flask import Flask, render_template, request
 import jsonify
